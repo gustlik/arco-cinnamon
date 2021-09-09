@@ -104,8 +104,8 @@ done
 func_category Internet
 
 list=(
-chromium
 qbittorrent
+firefox
 )
 
 count=0
